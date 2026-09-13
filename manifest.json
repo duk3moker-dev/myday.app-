@@ -1,7 +1,7 @@
 {
-  "name": "MyDay — Seu dia, do seu jeito.",
+  "name": "MyDay — Seu dia, do seu jeito",
   "short_name": "MyDay",
-  "description": "Seu dia, do seu jeito.",
+  "description": "Planner pessoal MyDay, com calendário, tarefas, metas, notas e lembretes.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
