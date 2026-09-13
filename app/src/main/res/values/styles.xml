@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.MyDay" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:statusBarColor">#C51F69</item>
+        <item name="android:navigationBarColor">#FFF5FA</item>
+    </style>
+</resources>
