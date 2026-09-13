@@ -1,11 +1,12 @@
 {
-  "name": "MyDay",
+  "name": "MyDay — Seu dia, do seu jeito.",
   "short_name": "MyDay",
   "description": "Seu dia, do seu jeito.",
   "start_url": "./",
+  "scope": "./",
   "display": "standalone",
-  "background_color": "#fff5fa",
-  "theme_color": "#e83e8c",
+  "background_color": "#fff4fa",
+  "theme_color": "#ec2f83",
   "lang": "pt-BR",
   "orientation": "portrait"
 }
