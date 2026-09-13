@@ -1,0 +1,11 @@
+{
+  "name": "MyDay",
+  "short_name": "MyDay",
+  "description": "Seu dia, do seu jeito.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fff5fa",
+  "theme_color": "#e83e8c",
+  "lang": "pt-BR",
+  "orientation": "portrait"
+}
