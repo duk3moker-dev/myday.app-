@@ -1,1 +1,0 @@
-# MyDay release rules
